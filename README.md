@@ -1,6 +1,6 @@
 #Introduction
 
-MAAWf is a fully automated analytics workflow platform for microbiota based on web technology that makes it easy for clinical and basic medical workers to analyze the composition and functionality of microbiomes in environments and visualize visual results. MAAWf is available by visiting the website www.maawf.com.
+MAAWf is a fully automated workflow platform for microbiota analysis. MAAWf is based on web-end or local setup that makes it easy for clinical and biologist to analyze the composition and functions of microbiome with visual results. MAAWf is available at www.maawf.com.
 
 MAAWf's key functions include analysis of species composition, gene abundance, metabolic pathway abundance, pathway coverage, ARGs analysis, and CAZy analysis of WMS data; OTU clustering, diversity, intergroup difference analysis, macrogenomic functional gene prediction, metabolic pathways and other functional analysis of 16S data. MAAWf supports online interaction and local deployment.
 
