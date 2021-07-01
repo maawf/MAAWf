@@ -31,7 +31,7 @@ $apt-get install -y docker.io
 $service docker start
 
 2.	Download MAAWf source code
-$wget http://www.maawf.com/maawf.tar.gz
+$wget http://www.maawf.com/maawf_v1.0.2.tar.gz
 $tar xzf maawf.tar.gz
 $mkdir -p /home/myspace/username
 #Then, move all files under the ~/maawf folder to /home/myspace/username and you can see the example file structure as follows:
