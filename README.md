@@ -13,7 +13,7 @@ Web-based MAAWf tool is now available at http://www.maawf.com.
 
 For local deployment, please try to download source code and files (Linux):
 
-wget http://www.maawf.com/maawf.tar.gz
+wget http://www.maawf.com/maawf_v1.0.2.tar.gz
 
 
 ##Local deployment of MAAWf
